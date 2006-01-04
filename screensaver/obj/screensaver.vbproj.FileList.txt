@@ -1,0 +1,9 @@
+bin\Debug\screensaver.exe
+bin\Debug\screensaver.pdb
+bin\Debug\screensaver.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\screensaver.Resources.resources
+obj\Debug\screensaver.vbproj.GenerateResource.Cache
+obj\Debug\screensaver.exe
+obj\Debug\screensaver.xml
+obj\Debug\screensaver.pdb
