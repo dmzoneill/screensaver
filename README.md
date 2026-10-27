@@ -1,5 +1,9 @@
 # RSS Screensaver
 
+<p align="center">
+  <img src=".github/logo.png" alt="screensaver logo" width="128" />
+</p>
+
 A Windows screensaver written in VB.NET that shows items from an RSS feed.
 
 ## What it does
